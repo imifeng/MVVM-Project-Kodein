@@ -4,7 +4,7 @@ Kodein + Room + ViewModel + LiveData + Work (MVVM)
 
 ## Libraries Used
 
-* 使用[Kodein]() 实现依赖项注入
+* 使用[Kodein](https://github.com/Kodein-Framework/Kodein-DI) 实现依赖项注入
 
 * [ViewModel ](https://developer.android.com/topic/libraries/architecture/viewmodel) 架构组件为界面控制器提供了 ViewModel 辅助程序类，该类负责为界面准备数据。在配置更改期间会自动保留 ViewModel 对象，以便它们存储的数据立即可供下一个 Activity 或 Fragment 实例使用
 
